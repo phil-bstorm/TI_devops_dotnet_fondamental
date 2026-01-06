@@ -14,6 +14,7 @@ Console.WriteLine("Superbe calculette!");
     int nbr2 = int.Parse(Console.ReadLine());
     Console.WriteLine("Total: " + (nbr1 + nbr2));
 }
+
 {
     // Demander à l’utilisateur d’encoder 2 nombres (int) et d’en faire l’addition, la conversion devra utiliser la méthode « int.TryParse() »
     string inputNbr1 = Console.ReadLine();

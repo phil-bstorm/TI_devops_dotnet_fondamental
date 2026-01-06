@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="Demo1/Demo1.csproj" />
+  <Project Path="Demo2-condition/Demo2-condition.csproj" Id="ac23d2c0-39b4-4b49-aed1-a5a5eeab7ab2" />
   <Project Path="Exo1/Exo1.csproj" Id="6befeb73-9934-4577-baa7-839f4356873c" />
 </Solution>
