@@ -6,4 +6,5 @@
   <Project Path="Exo1/Exo1.csproj" Id="6befeb73-9934-4577-baa7-839f4356873c" />
   <Project Path="Exo2/Exo2.csproj" Id="dc5a2db6-16cb-428d-b063-da10c66bff22" />
   <Project Path="Exo3/Exo3.csproj" Id="3147fc8c-784f-4432-9411-0119923f3419" />
+  <Project Path="Exo4/Exo4.csproj" Id="a8769df1-6722-44f2-b4a7-1b48ee6440cf" />
 </Solution>
