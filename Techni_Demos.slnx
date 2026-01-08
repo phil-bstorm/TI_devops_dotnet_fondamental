@@ -5,6 +5,7 @@
   <Project Path="demo4-boucle/demo4-boucle.csproj" Id="b6bca06a-2085-4d91-9f8f-45987366f493" />
   <Project Path="Demo5-tableau/Demo5-tableau.csproj" Id="c3e3e026-3589-4212-96cc-25a1a44bea1f" />
   <Project Path="Demo6-Structure/Demo6-Structure.csproj" Id="79452283-cc9d-4662-bca5-f375f511664a" />
+  <Project Path="Demo7-Methode/Demo7-Methode.csproj" Id="b159eb3d-7cc7-455d-8cdb-45bdea20c4b6" />
   <Project Path="Exo1/Exo1.csproj" Id="6befeb73-9934-4577-baa7-839f4356873c" />
   <Project Path="Exo2/Exo2.csproj" Id="dc5a2db6-16cb-428d-b063-da10c66bff22" />
   <Project Path="Exo3/Exo3.csproj" Id="3147fc8c-784f-4432-9411-0119923f3419" />
@@ -12,4 +13,5 @@
   <Project Path="Exo5/Exo5.csproj" Id="41806b78-e966-4130-b6ce-3ad8fbcbc01c" />
   <Project Path="Exo5_Compl_TodoList/Exo5_Compl_TodoList.csproj" Id="cb8a76e5-4ccd-4d88-ae1f-7ad6ffaf94bc" />
   <Project Path="Exo6/Exo6.csproj" Id="04f902d4-1712-4243-b5f7-2fc1299f0e61" />
+  <Project Path="Exo6_2/Exo6_2.csproj" Id="800c6b2d-134f-4b7d-8126-fe426e94a158" />
 </Solution>
