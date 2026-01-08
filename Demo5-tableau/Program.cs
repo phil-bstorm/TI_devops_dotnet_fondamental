@@ -12,8 +12,10 @@ Console.WriteLine("Les tableaux!");
     string[] tab2Strings = new string[4]; // default de string = null
 
     tab2Ints[5] = 56;
-
     tab2Strings[2] = "hello";
+
+    // crée un tableau de nullable
+    int?[] tabNullInt = new int?[10]; 
 
     Console.WriteLine();
 }
@@ -21,11 +23,16 @@ Console.WriteLine("Les tableaux!");
 
 #region tableau matriciel
 {
+    // matrice de 3 sur 3 remplie de 0
+    int[,] matriceCarreDef = new int[3, 3];
+
+    // matrice pré-remplie
                           //y 0  1  2
     int[,] matriceCarre = { { 1, 2, 3 },  //x 0
                             { 4, 5, 6 },  //  1
                             { 7, 8, 9 }   //  2
-    }; 
+    };
+
 
     int x = 1;
     int y = 2;
