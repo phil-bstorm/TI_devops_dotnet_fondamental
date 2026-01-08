@@ -9,4 +9,5 @@
   <Project Path="Exo3/Exo3.csproj" Id="3147fc8c-784f-4432-9411-0119923f3419" />
   <Project Path="Exo4/Exo4.csproj" Id="a8769df1-6722-44f2-b4a7-1b48ee6440cf" />
   <Project Path="Exo5/Exo5.csproj" Id="41806b78-e966-4130-b6ce-3ad8fbcbc01c" />
+  <Project Path="Exo5_Compl_TodoList/Exo5_Compl_TodoList.csproj" Id="cb8a76e5-4ccd-4d88-ae1f-7ad6ffaf94bc" />
 </Solution>

@@ -119,6 +119,3 @@
     somme.Insert(0, surplus);
     Console.WriteLine($"Votre somme finale est de {(String.Join(",", somme))}");
 }
-{
-
-}
