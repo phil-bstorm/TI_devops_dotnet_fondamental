@@ -17,5 +17,10 @@ namespace Demo7_Methode.Tools
             }
             Console.WriteLine();
         }
+
+        public void AjouterPoire(List<string> tab)
+        {
+            tab.Add("Poires");
+        }
     }
 }

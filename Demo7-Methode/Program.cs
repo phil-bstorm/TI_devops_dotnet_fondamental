@@ -37,6 +37,24 @@ namespace Demo7_Methode
 
             // Utilisation de params dans la méthode
             double resultatR = mh.Multi(0.2, 5, 0.6, 07, 0.9999);
+
+            Console.WriteLine(new string('=', 12)); // ===========
+
+            int a = 1;
+            mh.PlusUn(a);
+            Console.WriteLine(a);
+
+            mh.PlusUnRef(ref a);
+            Console.WriteLine(a);
+
+            List<string> courses = new List<string>();
+            courses.Add("Patates");
+            th.AjouterPoire(courses);
+            Console.WriteLine(courses.Count());
+
+            Console.WriteLine(new string('=', 12)); // ===========
+            mh.Addition(1, 1);
+            mh.Addition("5", "6");
         }
     }
 }

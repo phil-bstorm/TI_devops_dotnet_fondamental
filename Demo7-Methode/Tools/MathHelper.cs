@@ -16,5 +16,28 @@
             }
             return total;
         }
+
+        public void PlusUn(int nombre)
+        {
+            nombre++;
+        }
+
+        public void PlusUnRef(ref int nombre)
+        {
+            nombre++;
+        }
+
+        public int Addition(int a, int b)
+        {
+            return a + b; 
+        }
+
+        public int Addition(string a, string b)
+        {
+            int aI = int.Parse(a);
+            int bI = int.Parse(b);
+
+            return aI + bI;
+        }
     }
 }
